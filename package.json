@@ -1,0 +1,25 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismos en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgarrone82/Asincronismo-JavaScript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Jorge Ariel Garrone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgarrone82/Asincronismo-JavaScript/issues"
+  },
+  "homepage": "https://github.com/jgarrone82/Asincronismo-JavaScript#readme"
+}
